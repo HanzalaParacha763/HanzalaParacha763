@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanzala Paracha</h1>
-<h3 align="center">A passionate full stack developer from Pakistan, specialized in MERN Stack working for 4+ months, completing 3+ production ready web applications</h3>
+<h3 align="center">A passionate full stack developer from Pakistan, specialized in MERN Stack, working for 4+ months completing 3+ production ready web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzalaparacha763&label=Profile%20views&color=0e75b6&style=flat" alt="hanzalaparacha763" /> </p>
 
